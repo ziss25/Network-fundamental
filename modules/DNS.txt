@@ -1,0 +1,15 @@
+DNS ( Domain Name System ) 
+- sistem yang menerjemahkan nama domain menjadi IP address agar bisa dipahami oleh komputer saat kita mengakses sebuah website menggunakan nama domain.
+- Bisa dibilang DNS adalah ‘penerjemah’ yang memungkinkan kita berkomunikasi dengan komputer ketika akan mengunjungi sebuah website. Sebab, komputer mengakses website menggunakan IP address, sedangkan kita pasti kesulitan menghafal semua angka tersebut.
+
+
+- ibaratkan seperti kita mencari nama kontak di hp, kan gak mungkin manusia hapal semua no kontaknya, pasti ada label yg tertanam ke no kontak tersebut..
+- intinya mempermudah untuk diingat oleh manusia 
+
+
+- cara kerja dns: 
+  - DNS Resolver
+  - Root NameServer
+  - TLD (Top Level Domain)
+  resources: https://www.hostinger.co.id/tutorial/apa-itu-dns#Cara_Kerja_DNS
+          

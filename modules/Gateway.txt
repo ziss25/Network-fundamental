@@ -1,0 +1,10 @@
+Gateway 
+- gateway adalah sistem yang menghubungkan antar satu jaringan ke jaringan lain.
+- dan juga gateway merupakan sebagai perantara antar jaringan 
+- seperti: jaringan local ke global, atau sebaliknya 
+
+
+- di ibaratkan seperti pos antar komplek ... jadi jika ada orang luar komplek ingin ke komplek kita maka ia harus lapor ke pos (gateway), lalu pos nya akan mengarahkan ke rute rumah tujuan nya , begitu juga sebaliknya 
+
+
+- salah satu contoh perangkat dan jaringan internet gateway adalah router dan ISP (internet service provider) yang memberikan akses ke seluruh jaringan WWW.

@@ -1,0 +1,30 @@
+######### Media Transimisi Data ##############
+ * cable
+  - coaxial
+      ini mirip seperti tv kabel gitu, yg di dalamnya tembaga.. dan konektor nya atau kepalanya juga mirip 
+  - fiber optic
+      kabel yg didalam terdapat kaca seukuran sehelai rambut dan datanya di tranfer menggunakan cahaya... kabel ini batas limit kilo an meter sampai ratusan km dan sangat cepat
+      dan juga ada beberapa jenis fiber optic beserta konektor nya
+  - UTP
+      yg didalam nya berisi 8 kabel dan punya warna seperti putih orange putih dan etc
+        straight: pin start & pin end sama digunakan untuk device berbeda seperti pc to switch || router to switch 
+        crossOver: pin start & pin end tidak sama atau saling bertukar atau menyimpang atau meyenbrang gitu titik end nya kegunaan untuk device sama seperti pc to pc || switch to switch 
+
+ * Nirkabel 
+  - Access Point
+---------------------------------------------------------------------------------------
+
+# cable tools
+ * crimping tools
+   - testing
+   - alat potong
+   - etc..
+ * fiber tools, ini seperti alat waktu kita pkl di telkom :
+   - odm
+   - spalsh
+   - alat potong
+   - senter
+   - etc..
+ * nirkabel( wireless )
+
+------------------------------------------------------------------------------------

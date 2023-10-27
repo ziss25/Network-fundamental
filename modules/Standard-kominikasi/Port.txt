@@ -1,0 +1,16 @@
+---- port ------
+mekanisme yang digunakan untuk mengidentifikasi layanan atau aplikasi yang beroperasi di sebuah perangkat dalam jaringan. 
+
+ port seperti nomor apartemen di sebuah gedung pencakar langit. Setiap apartemen memiliki nomor unik yang membedakan satu dari yang lain, dan setiap nomor apartemen mengarah ke unit tertentu di dalam gedung. Dalam hal ini, gedung adalah perangkat dalam jaringan, dan nomor apartemen adalah nomor port yang digunakan untuk menentukan aplikasi atau layanan tertentu yang beroperasi di perangkat tersebut.
+ 
+
+Contoh gambarannya:
+    Bayangkan Anda memiliki komputer (perangkat) yang menjalankan beberapa aplikasi, seperti web browser, email client, dan server web. Setiap aplikasi ini menggunakan port khusus:
+
+      - Port 80: Biasanya digunakan oleh server web. Misalnya, ketika Anda mengakses situs web, peramban Anda akan menghubungi server web yang mendengarkan di port 80 di komputer tujuan.
+
+      - Port 25: Digunakan untuk protokol SMTP (Simple Mail Transfer Protocol) yang mengirimkan email. Email client Anda akan mengirim email melalui port 25 ke server email.
+
+      - Port 443: Digunakan untuk koneksi aman HTTPS. Ini digunakan ketika Anda mengakses situs web yang dienkripsi, seperti internet banking. Informasi yang dikirim melalui port 443 dienkripsi untuk keamanan.
+
+  resources: https://www.youtube.com/watch?v=VRBATnJgPCU&list=PLI3JRBDM4PcMGxQMWRxikfdE2njfHNM4G&index=17

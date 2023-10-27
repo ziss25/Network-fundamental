@@ -1,0 +1,7 @@
+# topology jaringan 
+  - bus
+  - mesh
+  - ring 	
+  - stars 
+  - tree 
+  - point to point

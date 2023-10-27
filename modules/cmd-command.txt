@@ -1,0 +1,8 @@
+- ping 
+  - cek koneksi ke tujuan
+- tracert 
+  - track rute ke tujuan 
+- nslookup
+  - mengatahui ip address dari sebuah domain
+
+ 

@@ -1,0 +1,29 @@
+####### Model TCP/IP ######## 
+ # pengenalan Model TCP/IP 
+  TCP (Transimision Control Protocol)
+  IP (Internet Protocol)
+
+  dikembangkan oleh agensi pertahanan Amerika Serikat Bernama DARPA (Defense Advanced  Research Project Agency)
+
+-----------------------------------------------------------------------------
+ 
+ # OSI vs TCP/IP 
+  * merupakan perbandingan antara keduanya: 
+    OSI                          TCP/IP
+    - Application                     
+    - Presentation               - Application -> HTTP/S, SSH, SMTP, etc
+    - Session
+
+    - Transport                  - Transport -> TCP / UDP
+    
+    - Network                    - Internet -> IP
+    
+    - Data Link
+    - Physical                   - link -> Ethernet
+
+    kita liat di atas TCP/IP banyak menggabungkan beberapa layer, jadi secara ga langsung TCP/IP cuman 4 layer saja 
+
+
+  *  pada dasarnya sama saja cuman yg membedakan OSI untuk framework , sedangkan TCP/IP lebih ke impletansion.. dan keduanya saling bekaitan satu dengan yg lainnya
+
+-----------------------------------------------------------------------------

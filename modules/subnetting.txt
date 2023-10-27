@@ -1,0 +1,10 @@
+# Subnetting 
+  - subnetmask
+  - netmask -> dari prefix
+  - prefix
+  - ip network 
+  - ip broadcast 
+  - host 
+  - class ip 
+
+

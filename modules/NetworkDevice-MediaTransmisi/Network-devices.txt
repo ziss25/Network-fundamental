@@ -1,0 +1,20 @@
+######### netwrok device ############## 
+merupakan device" yg biasa di pake dalam jaringan komputer
+
+-------------------------------------------------------------------------------
+
+* macam-macam device
+   - hub/switch
+       mengbungkan semua device atau pc, di ibaratkan seperti terminal listrik itu lah
+   - router
+     menguhubkan antar lingkup  jaringan local dan global(internet) , atau juga local dan   local    yg dimana didalam nya mencakup  switch dan device lainnya
+   - repeater
+       merupakan perangkat untuk memperkuat jaringan contohnya jika dirumah kita modem isp   nya di pasang di ruang tamu, tetapi di dapur tidak dapat sinyal..itu karena   penyebaran  jaringan udah mulai hilang .. maka dari itu kita pasang repeater agar   wilayah yg tidak   terjaungkau bisa dapat sinyal sesuai dengan di modem nya
+   - Access Point (AP)
+       singkatnya seperti switch cuman untuk dikhususkan untuk wireless( WIFI )
+
+   - modem
+   - firewall   
+   - server 
+
+-------------------------------------------------------------------------------------

@@ -1,0 +1,36 @@
+######### Network Protocol #############
+Protokol adalah sebuah sistem yang berfungsi untuk mengatur proses pertukaran data antar komputer dan jaringan. 
+
+----------------------------------------------------------------------------------
+
+# beberapa protocol yang sering digunakan pada jaringan komputer 
+  Browsing
+   - HTTP (80)
+   - HTTPS (443)
+
+  Remote 
+   - FTP (21)
+   - SSH (22)
+   - Telnet (23)
+
+  Database Service
+   - MySQL (1366)
+   - PostgreeSQL (5332)
+
+  other 
+   - localhost (127)  
+   - UDP (53)
+   - etc...
+
+  dan di atas merupakan beberapa protocol dan juga default port nya  
+
+----------------------------------------------------------------------------------
+
+# pengertian masing" Protocol
+  TCP (Transimision Control Protocol)
+  - merupakan protokol pengiriman data, dan memastikan data yg terkirim sampai dengan bener 
+    - email
+
+  UDP (user Datagram Protocol)
+  - sama halnya dengan TCP cuman ia hanya mengirim data nya saja, mau itu data nya sampai si  pnerima apa gak ia tidak peduli
+   - example: streaming video
