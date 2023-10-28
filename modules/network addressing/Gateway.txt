@@ -1,0 +1,12 @@
+######## Gateway ######## 
+- Gateway merupakan perangkat yang digunakan untuk terhubung ke network / jaringan yg berbeda (jaringan luar)
+- atau juga titik transit terdekat ke jaringan lain
+- gateway adalah sistem yang menghubungkan antar satu jaringan ke jaringan lain.
+- dan juga gateway merupakan sebagai perantara antar jaringan 
+- seperti: jaringan local ke global, atau local to local ataupun sebaliknya 
+
+- meskipun ada Router yg menghubungkan antar jaringan lingkup lain, tetapi gateway disini berperan sebagai pintu gerbang nya .. kurang lebih seperti itu
+
+- di ibaratkan seperti pos antar komplek ... jadi jika ada orang luar komplek ingin ke komplek kita maka ia harus lewat gerbang utama dong , kurang lebih gitu gambaran nya,
+
+- salah satu contoh perangkat dan jaringan internet gateway adalah router dan ISP (internet service provider) yang memberikan akses ke seluruh jaringan WWW.

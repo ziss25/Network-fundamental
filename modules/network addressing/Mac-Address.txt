@@ -1,0 +1,31 @@
+####### MAC Address #####
+-------------------------------------------------------------------------------------------
+
+# karakteristik MAC Address
+  - alamat hardware (pyhcial Address)
+  - MAC Address sudah terpasang pada sebuah device atau perangkat pada saat alat itu dibuat   atau diproduksi
+  - setiap InterFace jaringan MAC address bersifat unik 
+  - MAC Address juga dapat mengidentifikasi nama vendor / prabrikan 
+    example: 3 byte pertama [00:0A:95]              3 byte sisanya  :[9D:68:16]
+            - Organization Unique Indentifer        - Unique Address Assigned (UAA)
+  - layer 2
+  - tidak dapat diubah
+  - dibuat saat pembuatan perangkat oleh prabrikan
+
+------------------------------------------------------------------------------------------
+
+ # example MAC Address
+    length: 48 bit / 6 byte
+    terdapat 12 digit bilangan hexa yang dibagi menjadi 6 bagian
+     -> 00:0A:95:9D:68:16
+
+    1 byte dari MAC berisi 8 bit atau 8 bilangan 1 & 0
+     -> 01101101:01101101:01101101:01101101:01101101:01101101 = total ada 48 angka 1 & 0
+
+------------------------------------------------------------------------------------------
+
+ # cara kerja dari MAC Address
+  - MAC digunakan untuk komunikasi hop to hop
+  - atau bisa dibilang kurir nya
+
+-------------------------------------------------------------------------------------------

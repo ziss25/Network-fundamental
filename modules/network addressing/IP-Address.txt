@@ -1,0 +1,66 @@
+####### IP-address #######
+Internet Protocol Address atau Alamat IP adalah serangkaian angka unik yang mengidentifikasi komputer atau perangkat dalam jaringan.
+
+--------------------------------------------------------------------------------------------
+
+ # karakteristik MAC Address
+  - alamat hardware (Logical Address)
+  - terdapat beberapa teknik perhitungan (subnetting)
+  - layer 3 Address
+  - dapat diubah
+  - dipasangkan saat melakukan konfigurasi
+
+---------------------------------------------------------------------------------------------
+
+ # cara kerja dari IP Address
+  - ip digunakan untuk komunikasi end to end , atau dengan kata lain dari kita langsung di tujuan 
+  - atau bisa dibilang IP itu alamat nya
+
+--------------------------------------------------------------------------------------------
+
+ # ada 2 versi ip IPV4 & IPV6
+    - IPV4 merupakan ip terdiri dari 4 octect, 1 octect terdiri dari 8 digit angka atau dengan kata lain memiliki panjang 32 bit
+      example -> decimal -> 192.168.1.1 
+                 binary  -> 11000000.10101000.00000001.00000001
+
+    - IPv6 ditulis dalam rangkaian digit heksadesimal 16 byte dan huruf, dipisahkan oleh titik dua. Jadi, pada jenis IP address ini, Anda akan menjumpai huruf dari A-F & 0-9.
+    - panjang IPv6 mencapai 128 bit. Artinya, ada sekitar 340 undecillion, atau bisa juga ada 128 bilangan ( 1 & 0 )
+      example ->  2001:3FFE:9D38:FE75:A95A:1C48:50DF:6AB8
+                  2001:0db8:85a3:0000:0000:8a2e:0370:7334
+                  2001:db8:3333:4444:CCCC:DDDD:EEEE:FFFF
+
+--------------------------------------------------------------------------------------------
+
+ # ip privat & ip public
+
+     IP Privat
+     -  jenis IP address yang digunakan untuk berkomunikasi dalam jaringan lokal,  misalnya   melalui Bluetooth atau LAN. Perangkat seperti laptop, handphone, atau komputer yang    dilengkapi Bluetooth dan bisa terhubung ke jaringan lokal memiliki IP private sendiri.
+     Jadi, jenis IP address ini tidak bisa digunakan untuk jaringan internet. Versi IP ini    tersedia gratis untuk digunakan.
+        access: local
+        internet: not
+        cost: free 
+
+     - IP Public 
+       adalah jenis IP address publik yang digunakan untuk berkomunikasi di luar jaringan lokal   dan terhubung ke internet. IP address publik tidak tersedia gratis karena diberikan dan    dikontrol oleh penyedia layanan internet (ISP).
+        access: global
+        internet: ok
+        cost: pay
+
+--------------------------------------------------------------------------------------------
+
+ # IP Dynamic & IP Static 
+
+   - IP Dynamic 
+       Dynamic IP atau Alamat IP dinamis adalah IP yang sifatnya berubah-ubah, yang diberikan  oleh penyedia layanan internet kepada pelanggannya. Alamat ini biasanya digunakan  karena alasan keamanan. Sifatnya yang berubah-ubah dimaksudkan untuk mempersulit para  hacker mengakses antarmuka jaringan.
+
+       IP dinamis selalu berganti setiap kali perangkat baru ditambahkan ke jaringan, saat   konfigurasi jaringan berubah, atau saat perangkat reboot. Jadi, kalau Anda menggunakan  layanan internet dari suatu penyedia, IP di rumah Anda pun tidak selalu sama.
+
+
+   - IP Static
+       static IP atau Alamat IP statis adalah kebalikan dari jenis IP dinamis, dengan  rangkaian angka yang tetap dan tidak berganti-ganti. Jenis protokol ini akan tetap   sama, kecuali ada perubahan pada administrasi jaringan.
+
+       Pengguna akhir umumnya tidak memerlukan alamat ini. Namun, jenis IP ini diperlukan  untuk perangkat yang memerlukan akses tetap, atau jika Anda sering terhubung ke  jaringan pribadi.
+
+       Contohnya, perangkat seperti printer bersama harus memiliki static IP agar orang-orang  di kantor bisa terhubung dengan mudah untuk menggunakannya.
+
+---------------------------------------------------------------------------------------------

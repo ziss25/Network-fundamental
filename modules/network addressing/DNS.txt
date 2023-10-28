@@ -1,5 +1,5 @@
 DNS ( Domain Name System ) 
-- sistem yang menerjemahkan nama domain menjadi IP address agar bisa dipahami oleh komputer saat kita mengakses sebuah website menggunakan nama domain.
+- sistem yang menerjemahkan nama domain menjadi IP address agar bisa dipahami oleh komputer saat kita mengakses sebuah website menggunakan nama domain. begitu juga sebaliknya
 - Bisa dibilang DNS adalah ‘penerjemah’ yang memungkinkan kita berkomunikasi dengan komputer ketika akan mengunjungi sebuah website. Sebab, komputer mengakses website menggunakan IP address, sedangkan kita pasti kesulitan menghafal semua angka tersebut.
 
 
@@ -7,7 +7,7 @@ DNS ( Domain Name System )
 - intinya mempermudah untuk diingat oleh manusia 
 
 
-- cara kerja dns: 
+# cara kerja dns: 
   - DNS Resolver
   - Root NameServer
   - TLD (Top Level Domain)
