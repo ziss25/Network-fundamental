@@ -1,0 +1,21 @@
+command show 
+ mode privilage 
+   - show running-config
+   - show ip interface brief
+   - show ip dhcp pool
+   - show ip route
+
+ menambah ip dhcp
+ mode gloabal 
+  menambah : ip dhcp pool [name_network]
+            Router(dhcp-config)#dns-server [ip_dns]
+	    Router(dhcp-config)#network [network-address] [subnet_mask]
+	    Router(dhcp-config)#default-router [gateway]
+  menghapus: no ip dhcp pool [name_network]
+
+
+ - routing static (global/config)
+  add: 
+  - ip route [dest_network_addess] [subnet_mask] [hope/gateway_terdekat]
+  delete: 
+  - no ip route [dest_network_addess] [subnet_mask] [hope/gateway_terdekat]

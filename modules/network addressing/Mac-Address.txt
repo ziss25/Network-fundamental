@@ -3,7 +3,7 @@
 
 # karakteristik MAC Address
   - alamat hardware (pyhcial Address)
-  - MAC Address sudah terpasang pada sebuah device atau perangkat pada saat alat itu dibuat   atau diproduksi
+  - MAC Address sudah terpasang pada sebuah device atau perangkat pada saat alat itu dibuat atau diproduksi
   - setiap InterFace jaringan MAC address bersifat unik 
   - MAC Address juga dapat mengidentifikasi nama vendor / prabrikan 
     example: 3 byte pertama [00:0A:95]              3 byte sisanya  :[9D:68:16]
